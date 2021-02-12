@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Joshua Kang',
-  domain: process.env.DOMAIN_URL,
+  domain: 'joshua-kang.vercel.app',
   author: 'Joshua Kang',
 
   // open graph metadata (optional)
@@ -38,7 +38,6 @@ module.exports = {
   // NOTE: this requires you to set up Google Firebase and add the environment
   // variables specified in .env.example
   isPreviewImageSupportEnabled: true,
-  
 
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
