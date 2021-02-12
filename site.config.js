@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Joshua Kang',
-  domain: 'joshua-kang.vercel.app',
+  domain: 'joshua-kang.com',
   author: 'Joshua Kang',
 
   // open graph metadata (optional)
