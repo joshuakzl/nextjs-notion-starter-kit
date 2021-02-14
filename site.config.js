@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Joshua Kang',
-  domain: 'joshua-kang.com',
+  domain: process.env.DOMAIN_URL,
   author: 'Joshua Kang',
 
   // open graph metadata (optional)
