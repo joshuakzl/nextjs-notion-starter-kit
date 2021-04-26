@@ -275,7 +275,7 @@ export const NotionPage: React.FC<types.PageProps> = ({
         }
       />
 
-      <CustomHtml site={site} />
-    </Twitter.Provider>
+     
+    </TwitterContextProvider>
   )
 }
